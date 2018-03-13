@@ -3,5 +3,5 @@ name=Fake Sony BRAVIA 4K 2015
 version=v1
 versionCode=1
 author=ablanco
-description=Modifies the `build.prop` file to change it to a Sony BRAVIA TV.
+description=Modifies the build.prop file to change it to a Sony BRAVIA TV.
 minMagisk=1500
